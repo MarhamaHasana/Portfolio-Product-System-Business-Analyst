@@ -4,14 +4,14 @@
 Selamat datang di repositori portofolioku! 💖 Lulusan Sistem Informasi yang *passionate*  dalam menjembatani kebutuhan bisnis (*business requirements*) dengan solusi teknologi yang tepat sasaran.*Enjoy* mengerjakan *requirement gathering*, merancang pemodelan sistem, dan mengulik data untuk menemukan *business insights* yang berharga! 🚀
 
 ### 🛠️ My Superpowers (Core Competencies)
-* 🎯 **Product & Business Analysis:** Product Specifications, Requirement Traceability, UAT Scenarios, Business Process Modeling.
-* 🧩 **System Analysis:** Use Case Diagrams, Edge Case Handling, Entity Relationship Diagrams (ERD), Technical Documentation.
-* 📈 **Data Analytics & Research:** Python, VADER Sentiment Analysis, PLS-SEM (SmartPLS), Data Pre-processing.
+* **Product & Business Analysis:** Product Specifications, Requirement Traceability, UAT Scenarios, Business Process Modeling.
+* **System Analysis:** Use Case Diagrams, Edge Case Handling, Entity Relationship Diagrams (ERD), Technical Documentation.
+* **Data Analytics & Research:** Python, VADER Sentiment Analysis, PLS-SEM (SmartPLS), Data Pre-processing.
 
 ---
 
 ### 📂 Sneak Peek into My Projects!
-Berikut adalah beberapa studi kasus yang pernah aku kerjakan. *Feel free to click and explore!* 👇
+Berikut adalah beberapa studi kasus yang pernah aku kerjakan. *Feel free to click and explore!* 
 
 **1. [System Analysis: Distrilink Sales Automation Platform](./Project_1_Distrilink)**
 * Merancang validasi sistem *end-to-end* untuk fitur *Geotagging* & Manajemen Pesanan (*Order Management*).
@@ -31,7 +31,7 @@ Berikut adalah beberapa studi kasus yang pernah aku kerjakan. *Feel free to clic
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 Punya peluang kolaborasi, lowongan pekerjaan yang cocok, atau sekadar mau *say hi*? *I'd love to hear from you!* 💌
 
 * 💼 **LinkedIn:** [www.linkedin.com/in/marhama-hasana]
