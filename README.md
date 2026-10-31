@@ -1,7 +1,7 @@
 # Halooo! Welcome to my space, I'm Marhama Hasana 👋
 ## Product Analyst | System Analyst | Business Analyst
 
-Selamat datang di repositori portofolioku! 💖 Lulusan Sistem Informasi yang *passionate*  dalam menjembatani kebutuhan bisnis (*business requirements*) dengan solusi teknologi yang tepat sasaran.*Enjoy* mengerjakan *requirement gathering*, merancang pemodelan sistem, dan mengulik data untuk menemukan *business insights* yang berharga! 🚀
+Lulusan Sistem Informasi yang *passionate*  dalam menjembatani kebutuhan bisnis (*business requirements*) dengan solusi teknologi yang tepat sasaran.*Enjoy* mengerjakan *requirement gathering*, merancang pemodelan sistem, dan mengulik data untuk menemukan *business insights* 
 
 ### 🛠️ My Superpowers (Core Competencies)
 * **Product & Business Analysis:** Product Specifications, Requirement Traceability, UAT Scenarios, Business Process Modeling.
