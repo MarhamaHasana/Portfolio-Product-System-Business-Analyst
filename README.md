@@ -1,12 +1,11 @@
 # Marhama Hasana
 **System Analyst · Business Analyst · Product Analyst**
 
-Halo, selamat datang di halaman portofolio saya.
+Halo, selamat datang di portofolio saya!
 
-Saya lulusan S1 Sistem Informasi dari Universitas Ahmad Dahlan yang fokus mendalami bidang *System Analysis*, *Business Analysis*, dan *Product Development*. Ketertarikan utama saya ada pada proses menerjemahkan kebutuhan pengguna maupun bisnis menjadi rancangan sistem yang terstruktur dan jelas.
+Saya merupakan lulusan S1 Sistem Informasi Universitas Ahmad Dahlan yang memiliki ketertarikan pada bidang *System Analysis*, *Business Analysis*, dan *Product Development*. Saya tertarik memahami bagaimana suatu sistem dan proses bisnis berjalan, mengidentifikasi permasalahan yang ada, serta mencari cara untuk mengembangkan solusi yang sesuai dengan kebutuhan pengguna.
 
-Dari beberapa proyek dan penelitian yang pernah saya kerjakan, saya terbiasa memetakan proses yang sedang berjalan, mencari tahu letak masalahnya, lalu menyusunnya ke dalam bentuk analisis kebutuhan, alur kerja sistem, hingga pemodelan data.
-
+Melalui proyek akademik dan pengalaman yang pernah saya kerjakan, saya belajar menganalisis kebutuhan, memetakan proses bisnis, menyusun alur kerja sistem, dan mendokumentasikan rancangan solusi. Portofolio ini berisi beberapa proyek dan studi kasus yang menjadi bagian dari proses belajar dan pengembangan kemampuan saya di bidang analisis sistem dan bisnis.
 ---
 
 ### Kompetensi & Tools
