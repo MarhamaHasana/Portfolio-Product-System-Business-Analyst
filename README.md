@@ -6,6 +6,7 @@ Halo, selamat datang di portofolio saya!
 Saya merupakan lulusan S1 Sistem Informasi Universitas Ahmad Dahlan yang memiliki ketertarikan pada bidang *System Analysis*, *Business Analysis*, dan *Product Development*. Saya tertarik memahami bagaimana suatu sistem dan proses bisnis berjalan, mengidentifikasi permasalahan yang ada, serta mencari cara untuk mengembangkan solusi yang sesuai dengan kebutuhan pengguna.
 
 Melalui proyek akademik dan pengalaman yang pernah saya kerjakan, saya belajar menganalisis kebutuhan, memetakan proses bisnis, menyusun alur kerja sistem, dan mendokumentasikan rancangan solusi. Portofolio ini berisi beberapa proyek dan studi kasus yang menjadi bagian dari proses belajar dan pengembangan kemampuan saya di bidang analisis sistem dan bisnis.
+
 ---
 
 ### Kompetensi & Tools
