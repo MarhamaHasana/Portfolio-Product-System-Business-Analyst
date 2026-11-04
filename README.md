@@ -29,7 +29,7 @@ Perancangan sistem website untuk penyediaan informasi kebencanaan dan pemantauan
 * Mendokumentasikan interaksi antarkomponen sistem menggunakan *Class Diagram*, *Sequence Diagram*, serta perancangan relasi antara *Database Informasi* dan *Database IoT*.
 * Memetakan keterkaitan fungsi website, pengelolaan informasi berbasis lokasi (`locationID`), serta aturan penentuan status wilayah (*Aman, Waspada, Bahaya*).
 
-**Dokumentasi Proyek:** [Smart Disaster Mitigation Web Portfolio](./Smart_Disaster_Mitigation_Full_Portfolio.pdf)
+**Dokumentasi Proyek:** [Smart Disaster Mitigation Web Portfolio](./Project_3_Smart Disaster Mitigation/MarhamaHasana_Smart Disaster Mitigation Web_Portofolio.pdf)
 
 ---
 
@@ -40,7 +40,7 @@ Studi kasus analisis sistem pada platform *Sales Force Automation* (SFA) yang be
 * Menyusun *business rules*, skenario validasi, dan *edge cases*, termasuk penanganan ketidaksesuaian titik lokasi GPS serta kondisi perangkat saat *offline*.
 * Merancang *Entity Relationship Diagram* (ERD) untuk menggambarkan hubungan antarentitas data yang dibutuhkan sistem.
 
-**Dokumentasi Proyek:** [Distrilink Sales Automation Platform](#)
+**Dokumentasi Proyek:** [Distrilink Sales Automation Platform](./Project_1_Distrilink/MarhamaHasana_SystemAnalyst_Portofolio.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ Studi kasus perancangan sistem manajemen SDM yang berfokus pada proses administr
 * Menganalisis alur pengajuan dan persetujuan cuti berdasarkan kebutuhan operasional serta pembagian hak akses antara karyawan dan administrator.
 * Menerjemahkan kebutuhan pengguna menjadi *functional requirements*, diagram alur proses, dan skenario *User Acceptance Testing* (UAT).
 
-**Dokumentasi Proyek:** [HR Management System](#)
+**Dokumentasi Proyek:** [HR Management System](./Project_2_HR_System/MarhamaHasana_HR Management System - Product & System Analysis_Portofolio.pdf)
 
 ---
 
@@ -63,6 +63,8 @@ Penelitian tugas akhir yang mengkaji pengaruh *Social Media Engagement* dan sent
 * Menguji hubungan antarvariabel penelitian terhadap minat beli konsumen menggunakan metode *Partial Least Squares Structural Equation Modeling* (PLS-SEM) di SmartPLS.
 
 **Judul Penelitian:** *Analisis Pengaruh Social Media Engagement dan Sentimen Publik terhadap Minat Beli Produk MOP Beauty di TikTok Berdasarkan Pendekatan Teori S-O-R.*
+
+**Dokumentasi Proyek:** [Analisis Sentimen TikTok](./Project_4_Tiktok_Sentiment/MarhamaHasana_Data Analyst Tiktok MOP_Portofolio.pdf)
 
 ---
 
