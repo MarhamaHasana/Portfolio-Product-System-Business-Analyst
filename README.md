@@ -9,7 +9,7 @@ Melalui proyek akademik dan pengalaman yang pernah saya kerjakan, saya belajar m
 
 ---
 
-### Kompetensi & Tools
+### ✦ Kompetensi & Tools
 
 * **System Analysis:** System Workflow Design, Use Case Diagram, UML (Flowchart, Class & Sequence Diagram), Entity Relationship Diagram (ERD), Technical Documentation.
 * **Business & Product Analysis:** Requirement Analysis, Business Process Modeling, Functional Requirements, Business Rules, Edge Case Analysis, UAT Scenarios.
@@ -18,7 +18,7 @@ Melalui proyek akademik dan pengalaman yang pernah saya kerjakan, saya belajar m
 
 ---
 
-### Proyek & Studi Kasus
+### ✦ Proyek & Studi Kasus
 
 Berikut adalah beberapa proyek dan studi kasus yang pernah saya kerjakan terkait analisis sistem, pemodelan proses bisnis, dan pengolahan data:
 
