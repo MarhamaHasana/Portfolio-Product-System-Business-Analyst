@@ -29,7 +29,7 @@ Perancangan sistem website untuk penyediaan informasi kebencanaan dan pemantauan
 * Mendokumentasikan interaksi antarkomponen sistem menggunakan *Class Diagram*, *Sequence Diagram*, serta perancangan relasi antara *Database Informasi* dan *Database IoT*.
 * Memetakan keterkaitan fungsi website, pengelolaan informasi berbasis lokasi (`locationID`), serta aturan penentuan status wilayah (*Aman, Waspada, Bahaya*).
 
-**Dokumentasi Proyek:** [Smart Disaster Mitigation Web Portfolio](./Project_3_Smart Disaster Mitigation/MarhamaHasana_Smart Disaster Mitigation Web_Portofolio.pdf)
+**Dokumentasi Proyek:** [Smart Disaster Mitigation Web Portfolio](./Project_3_Smart%20Disaster%20Mitigation/MarhamaHasana_Smart%20Disaster%20Mitigation%20Web_Portofolio.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ Studi kasus perancangan sistem manajemen SDM yang berfokus pada proses administr
 * Menganalisis alur pengajuan dan persetujuan cuti berdasarkan kebutuhan operasional serta pembagian hak akses antara karyawan dan administrator.
 * Menerjemahkan kebutuhan pengguna menjadi *functional requirements*, diagram alur proses, dan skenario *User Acceptance Testing* (UAT).
 
-**Dokumentasi Proyek:** [HR Management System](./Project_2_HR_System/MarhamaHasana_HR Management System - Product & System Analysis_Portofolio.pdf)
+**Dokumentasi Proyek:** [HR Management System](./Project_2_HR_System/MarhamaHasana_HR%20Management%20System%20-%20Product%20%26%20System%20Analysis_Portofolio.pdf)
 
 ---
 
@@ -64,7 +64,7 @@ Penelitian tugas akhir yang mengkaji pengaruh *Social Media Engagement* dan sent
 
 **Judul Penelitian:** *Analisis Pengaruh Social Media Engagement dan Sentimen Publik terhadap Minat Beli Produk MOP Beauty di TikTok Berdasarkan Pendekatan Teori S-O-R.*
 
-**Dokumentasi Proyek:** [Analisis Sentimen TikTok](./Project_4_Tiktok_Sentiment/MarhamaHasana_Data Analyst Tiktok MOP_Portofolio.pdf)
+**Dokumentasi Proyek:** [Analisis Sentimen TikTok](./Project_4_Tiktok_Sentiment/MarhamaHasana_Data%20Analyst%20Tiktok%20MOP_Portofolio.pdf)
 
 ---
 
