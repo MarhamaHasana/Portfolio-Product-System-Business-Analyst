@@ -79,7 +79,7 @@ Penelitian tugas akhir yang mengkaji pengaruh *Social Media Engagement* dan sent
 
 ---
 
-### Kontak
+### 👥 Kontak
 
 Saat ini saya terbuka untuk peluang karier maupun magang di bidang *System Analysis*, *Business Analysis*, *Product Analysis*, atau peran terkait lainnya. 
 
